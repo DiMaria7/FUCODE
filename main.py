@@ -209,3 +209,6 @@ if __name__ == '__main__':
             args.save_normal_result = True
         if args.relearn:
             case.relearn_unlearning_knowledge(unlearning_model, client_all_loaders_attack, test_loaders)
+
+
+## 新增测试分支
